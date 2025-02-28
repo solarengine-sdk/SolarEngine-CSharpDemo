@@ -38,7 +38,7 @@ dlldata.c
 bin/
 obj/
 *.pdb
-*.dll
+
 *.exe
 *.so
 *.dylib
